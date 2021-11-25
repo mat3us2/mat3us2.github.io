@@ -1,0 +1,298 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pand",
+				"Pandoc"
+			],
+			[
+				"mark",
+				"Build With: Markdown"
+			],
+			[
+				"pan",
+				"Pandoc"
+			],
+			[
+				"cite",
+				"CiteBibTeX: Extract citations in current file"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet:",
+				"Snippet: Markdown Header 1"
+			],
+			[
+				"Snippet: ",
+				"Snippet: tx"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"Snippet: te",
+				"Snippet: test_snippet"
+			],
+			[
+				"Snippet",
+				"Snippet: CDATA"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/hrrmxj/startbootstrap-stylish-portfolio-gh-pages",
+		"/Users/hrrmxj/startbootstrap-stylish-portfolio-gh-pages/js"
+	],
+	"file_history":
+	[
+		"/Users/hrrmxj/startbootstrap-stylish-portfolio-gh-pages/js/scripts.js",
+		"/Users/hrrmxj/startbootstrap-stylish-portfolio-gh-pages/index.html",
+		"/Users/hrrmxj/startbootstrap-stylish-portfolio-gh-pages/css/styles.css",
+		"/Users/hrrmxj/Dropbox/Application Support Items/Sublime Text 3/Packages/User/R.sublime-build",
+		"/Users/hrrmxj/Dropbox/Application Support Items/Sublime Text 3/Packages/User/Python_print.sublime-snippet",
+		"/Users/hrrmxj/Dropbox/Application Support Items/Sublime Text 3/Packages/User/Python_print_with_keyboard_binding.sublime-snippet",
+		"/Users/hrrmxj/Library/Application Support/Sublime Text 3/Packages/User/Python_print.sublime-snippet",
+		"/Users/hrrmxj/Desktop/SUBLIME_MATERIALS/SBLM/contract_code.sol",
+		"/Users/hrrmxj/Downloads/contract_code.txt",
+		"/Volumes/hrrmxj/poco/fuji/overlap_60/cameras.json",
+		"/Volumes/hrrmxj/poco/fuji/overlap_60/images.json",
+		"/Volumes/hrrmxj-1/drone_project_setup.sh",
+		"/Volumes/hrrmxj-1/aerial/joobs_david_logan.sh",
+		"/Users/hrrmxj/Desktop/Nord.terminal",
+		"/Users/hrrmxj/Dropbox/Pollination Model/LatticeModel/Matlab Codes 01_16_2020/Model_Pollination_Lattice_C1.m",
+		"/Users/hrrmxj/Dropbox/MS/aits/aits-discussion.md",
+		"/Users/hrrmxj/Dropbox/MS/aits/aits-tables.tex",
+		"/Users/hrrmxj/Dropbox/MS/aits/aits-preamble.tex",
+		"/Users/hrrmxj/Dropbox/MS/aits/_bookdown.yml",
+		"/Users/hrrmxj/Dropbox/MS/aits/_output.yml",
+		"/Users/hrrmxj/Dropbox/MS/aits/index.Rmd",
+		"/Users/hrrmxj/Dropbox/MS/aits/index.md",
+		"/Users/hrrmxj/Dropbox/MS/aits/aits-intro.html",
+		"/Users/hrrmxj/Dropbox/MS/aits/aits-methods.md",
+		"/Users/hrrmxj/Library/Application Support/Sublime Text 3/Packages/User/Pandoc.sublime-settings",
+		"/Users/hrrmxj/Dropbox/MS/aits/aits-intro.md",
+		"/Users/hrrmxj/Dropbox/MS/aits/aits-index.md",
+		"/Users/hrrmxj/Dropbox/Shared/Magda/Hybrid/hybrids_EV.md",
+		"/Users/hrrmxj/Dropbox/MS/aits/aits.sublime-project",
+		"/Users/hrrmxj/Dropbox/MS/aits.bib",
+		"/Users/hrrmxj/Dropbox/MS/aits-discussion.md",
+		"/Users/hrrmxj/Dropbox/MS/aits-results.md",
+		"/Users/hrrmxj/Dropbox/MS/aits-methods.md",
+		"/Users/hrrmxj/Dropbox/MS/aits-intro.md",
+		"/Users/hrrmxj/Dropbox/MS/aits-abstract.md",
+		"/Users/hrrmxj/Dropbox/MS/index.md",
+		"/Users/hrrmxj/Dropbox/MS/_bookdown.yml",
+		"/Users/hrrmxj/Dropbox/MS/_output.yml",
+		"/Users/hrrmxj/Dropbox/MS/index.Rmd",
+		"/Users/hrrmxj/Library/Application Support/Sublime Text 3/Packages/User/CiteBibtex.sublime-settings",
+		"/Users/hrrmxj/Library/Application Support/Sublime Text 3/Packages/Pandoc/Pandoc.sublime-settings",
+		"/Users/hrrmxj/Library/Application Support/Sublime Text 3/Packages/CiteBibtex/Default.sublime-keymap",
+		"/Users/hrrmxj/Dropbox/MS/aits.md",
+		"/Users/hrrmxj/Desktop/Notes PPR 2020 and Droning On.md",
+		"/Users/hrrmxj/Desktop/Zakupy Ceracell.md",
+		"/Users/hrrmxj/Library/Application Support/Sublime Text 3/Packages/User/nf.sublime-snippet",
+		"/Users/hrrmxj/Dropbox/MS/Package Control Messages.md",
+		"/Users/hrrmxj/Library/Application Support/Sublime Text 3/Packages/User/rt.sublime-snippet",
+		"/Users/hrrmxj/Dropbox/PFR/PPR/2019/PPR_notes_2019.md",
+		"/Users/hrrmxj/Library/Application Support/Sublime Text 3/Packages/User/ms.sublime-snippet",
+		"/Users/hrrmxj/Library/Application Support/Sublime Text 3/Packages/User/rx.sublime-snippet"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 120.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 340.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 151.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "webpage_test.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
